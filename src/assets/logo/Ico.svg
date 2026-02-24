@@ -1,0 +1,6 @@
+<svg className="" xmlns="http://www.w3.org/2000/svg" viewBox={`10 10 150 150`}>
+    <circle cx="100" cy="95" r="50" stroke="#a73995" strokeWidth="10" fill="none" />
+    <text x="100" y="102" fontFamily="Arial" fontSize="92" fill="#4995be" fontWeight="bold" textAnchor="middle" alignmentBaseline="middle">
+        S
+    </text>
+</svg>
